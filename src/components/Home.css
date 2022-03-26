@@ -1,0 +1,47 @@
+.Home{
+display: flex;
+justify-content: center;
+padding: 1rem;
+margin: 2rem;
+
+}
+.head{
+  text-align: center;
+}
+/* .nav{
+    color: beige;
+    background-color: black ;
+    
+justify-content: center; */
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    padding: 1rem;
+margin: 2rem;
+
+  
+
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .btn btn-success{
+    /* display: flex; */
+    /* align-items: center; */
+/* flex-direction: column; */
+  /* position: relative; */
+  margin-left: 50px
+  /* padding: 3rem;
+  flex-direction: row; */
+  
+
+  }
